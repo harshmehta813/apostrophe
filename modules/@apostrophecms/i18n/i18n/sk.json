@@ -283,6 +283,7 @@
   "public": "Verejné",
   "publish": "Publikovať",
   "publishBeforeUsingTooltip": "Pred použitím v kontexte zverejnite tento obsah",
+  "publishTooltip": "Zverejnite svoje zmeny, aby boli zverejnené",
   "published": "Publikovaný",
   "rawCssAndJs": "Zdrojový CSS a JS",
   "rawHtml": "Zdrojový HTML",

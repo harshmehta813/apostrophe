@@ -53,6 +53,10 @@
         v-if="editMode && !isAutopublished"
         type="primary"
         :label="publishLabel"
+        :tooltip="{
+            content: 'apostrophe:publishTooltip',
+            placement: 'bottom'
+          }"
         :disabled="!readyToPublish"
         class="apos-admin-bar__btn apos-admin-bar__context-button"
         :modifiers="['no-motion']"

@@ -325,6 +325,7 @@
   "public": "Pubblico",
   "publish": "Pubblica",
   "publishBeforeUsingTooltip": "Pubblica questo contenuto prima di usarlo in una relazione",
+  "publishTooltip": "Pubblica le tue modifiche per renderle attive",
   "publishType": "Pubblica {{ type }}",
   "published": "Pubblicato",
   "publishingBatchConfirmation": "Sei sicuro di voler pubblicare {{ count }} {{ type }}?",

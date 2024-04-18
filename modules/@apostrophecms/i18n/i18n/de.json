@@ -288,6 +288,7 @@
   "public": "Öffentlich",
   "publish": "Veröffentlichen",
   "publishBeforeUsingTooltip": "Veröffentliche diese Seite, bevor du sie in einer Beziehung benutzt.",
+  "publishTooltip": "Veröffentlichen Sie Ihre Änderungen, um sie live zu schalten",
   "publishType": "{{ type }} veröffentlichen",
   "published": "Veröffentlicht",
   "publishingBatchConfirmation": "Willst du {{ count }} {{ type }} wirklich veröffentlichen?",
